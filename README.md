@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @iliasrafia
-- 👀 Web development: React, NextJS
+- 👀 Web developer: React, NextJS
